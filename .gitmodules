@@ -1,0 +1,3 @@
+[submodule "TRNG_IP"]
+	path = TRNG_IP
+	url = https://github.com/nfproc/TRNG_IP

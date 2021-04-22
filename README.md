@@ -7,6 +7,7 @@ Sources for "various methods to connect self-built circuits with PYNQ" for ACRi 
 
 - knight: 第1回で使用したナイトライダー回路の記述一式
 - knight2: 第2回で使用した改良版ナイトライダー IP コアのソースコード一式
+- TRNG_IP: 第3回で使用した真性乱数生成 IP コアのソースコード一式（別リポジトリ）
 - LICENSE.txt: ライセンス文
 - README.md: このファイル
 
