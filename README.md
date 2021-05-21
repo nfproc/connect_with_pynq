@@ -9,6 +9,7 @@ Sources for "various methods to connect self-built circuits with PYNQ" for ACRi 
 - knight2: 第2回で使用した改良版ナイトライダー IP コアのソースコード一式
 - TRNG_IP: 第3回で使用した真性乱数生成 IP コアのソースコード一式（別リポジトリ）
 - stencil_hdl: 第4回で使用したステンシル計算コプロセッサの記述一式（IP コアは別リポジトリ）
+- stencil_hls: 第5回で使用したステンシル計算コプロセッサ（HLS 版）の記述一式
 - LICENSE.txt: ライセンス文
 - README.md: このファイル
 
