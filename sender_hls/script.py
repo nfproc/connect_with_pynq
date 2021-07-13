@@ -1,3 +1,6 @@
+# Pattern Sender (HLS) for PYNQ 2021.07.13 Naoki F., AIT
+# ライセンスについては LICENSE.txt を参照してください．
+
 from pynq import allocate
 import numpy as np
 

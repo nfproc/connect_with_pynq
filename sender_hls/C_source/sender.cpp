@@ -1,3 +1,6 @@
+// Pattern Sender (HLS) for PYNQ 2021.07.13 Naoki F., AIT
+// ライセンスについては LICENSE.txt を参照してください．
+
 #include "define.h"
 
 void pattern_sender (int frame, hls::stream<pixel_t> &pout)
